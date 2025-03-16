@@ -1,14 +1,14 @@
 === Teck Global Image Convert WebP ===
-Contributors: TeckGlobal LLC
-Author URI: https://teck-global.com
-Plugin URI: https://teck-global.com/wordpress-plugins
-Requires at least: 5.0
-Tested up to: 6.7
-Stable tag: 1.0.4
-Requires PHP: 7.4 or later
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Tags: wordpress, images, png/jpg/jpeg, WebP, imagick
+ * Contributors: TeckGlobal LLC
+ * Author URI: https://teck-global.com
+ * Plugin URI: https://teck-global.com/wordpress-plugins
+ * Requires at least: 5.0
+ * Tested up to: 6.7
+ * Stable tag: 1.0.4
+ * Requires PHP: 7.4 or later
+ * License: GPLv2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: wordpress, images, png/jpg/jpeg, WebP, imagick
 
 == Description ==
 A WordPress plugin by Teck Global to convert any newly upload image .jpg/jpeg/png to webp.
@@ -28,6 +28,7 @@ Teck Global is a leading provider of IT solutions, specializing in cybersecurity
 This is for sites that want to imporve speed for the user, this is probably not for people in the photography business and want complete quality to show their users, while it would probably not be noticeable you might have a user that can see a difference with quality.
 
 == Changelog ==
+
 = 1.0.0 =
 * Initial release
 * Added configurable .jpeg
