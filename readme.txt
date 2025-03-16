@@ -12,7 +12,7 @@
 
 == Description ==
 
-A WordPress plugin by Teck Global to convert any uploaded image jpg/jpeg/png to webp at 80 percent quality.
+A WordPress plugin by Teck Global to convert any newly upload image .jpg/jpeg/png to webp at 80 percent quality.
 
 ### Features
 All newly added files that are in formats .jpg/jpeg/png will be converted to 80% quality and webp, this helps reduce the overall size on the sites data and speeds up the user experience.
